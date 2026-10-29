@@ -1,0 +1,60 @@
+{
+  "name": "Abdullah Alharbi",
+  "title": "AI Engineer",
+  "bio": "Artificial Intelligence graduate designing and building intelligent systems across Agentic AI, computer vision, machine learning, and LLM applications. I turn complex challenges into reliable, scalable AI solutions for real-world use cases.",
+  "email": "abdullahomalharbi@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/abdullah-alahmadi1",
+  "goal": "To work as an Agentic AI Engineer, developing reliable systems that combine reasoning, automation, retrieval, and evaluation.",
+  "skills": "Python, PyTorch, Transformers, LangChain, LangGraph, scikit-learn, OpenCV, NumPy, RAG Pipelines, Multi-Agent Systems, Function Calling, Prompt Engineering, Vector Databases, LLM Evaluation, Deep Learning, Computer Vision, NLP, Voice AI, QLoRA, Model Compression, 3D CNNs, Hugging Face, Gradio, n8n, ElevenLabs, Whisper, OpenAI API, Git, GitHub Actions",
+  "projects": [
+    {
+      "name": "Nabeeh",
+      "type": "Autonomous Industrial Safety Supervisor",
+      "date": "Aug – Oct 2026",
+      "description": "A multi-agent safety system combining computer vision and regulation-grounded recommendations. Three specialized agents with tool calling, memory, 12 guardrails, and human approval for critical actions.",
+      "tech": "YOLO26 · ByteTrack · LangGraph · RAG · FAISS · FastAPI · SQLite",
+      "metric": "0.817 mAP50 · 1.00 recall@3 · 670 passing tests"
+    },
+    {
+      "name": "IronID",
+      "type": "AI Fitness Coach",
+      "date": "Oct – Dec 2025",
+      "description": "A fitness app that identifies equipment locally and delivers bilingual tutorials. MobileNetV3 compression through pruning and quantization, paired with a GPT-3.5-turbo routine generator.",
+      "tech": "MobileNetV3 · Pruning · Quantization · GPT-3.5-turbo · GitHub Actions",
+      "metric": "99.02% accuracy · 5.7 MB model"
+    },
+    {
+      "name": "SHEFAA",
+      "type": "Arabic Medical Q&A System",
+      "date": "Dec 2024 – Feb 2025",
+      "description": "An Arabic medical question-answering system built by fine-tuning Jais-family-256m with QLoRA on AHQAD, using Arabic text normalization and optimized memory usage.",
+      "tech": "Jais · QLoRA · AHQAD · NLP",
+      "metric": "Evaluated with BLEU, ROUGE & BERTScore"
+    }
+  ],
+  "experience": [
+    {
+      "name": "AI Student — KAUST Academy",
+      "date": "Feb 2026",
+      "detail": "80-hour Advanced AI program with KAUST faculty in collaboration with UQU: transfer learning, segmentation, object detection, and data augmentation."
+    },
+    {
+      "name": "AI Intern — Deep Scan Technologies",
+      "date": "Mar – Aug 2025",
+      "detail": "Built and optimized AI agents for Nabrah. Developed voice and text workflows with n8n and GPT-based models, integrating ElevenLabs and Whisper."
+    }
+  ],
+  "education": [
+    {
+      "name": "Agentic AI Engineering Bootcamp",
+      "detail": "Saudi Digital Academy · Riyadh · Aug – Oct 2026"
+    },
+    {
+      "name": "B.Sc. in Artificial Intelligence",
+      "detail": "Umm Al-Qura University · Makkah · 2022–2026 "
+    }
+  ],
+  "languages": "Arabic — Native/Bilingual · English — Proficient",
+  "target_role": "Agentic AI Engineer",
+  "nabeeh_repository": "https://github.com/AIAgenticTeam/ppe-safety-supervisor"
+}

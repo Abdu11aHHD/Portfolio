@@ -1,0 +1,48 @@
+{
+  "A": "Build me a personal website that looks modern\nand includes information about me.",
+  "B": "Act as a professional portfolio designer and web\ndeveloper. Help me build a modern, interactive\nportfolio that I can share with companies and\nrecruiters to showcase my skills, projects,\neducation, interests, and career goals. Start by\nasking me questions about my background,\ntechnical skills, achievements, projects, and the\nroles I want to pursue. Use my answers to create\na portfolio that reflects my personality while\npresenting me professionally. Organize the\ncontent into clear sections and highlight my\nstrongest projects with their goals, my\ncontributions, technologies used, and results\nwhere available. Create a unique visual identity\nwith clean layouts, readable typography, smooth\nanimations, and responsive design across\nmobile, tablet, and desktop. Make the portfolio\neasy to navigate and include working links and a\nclear way for recruiters to explore my work and\ncontact me through a method I approve. Do not\ninvent achievements, skills, experience, or\nresults. Include only information I approve for\npublic sharing and never expose sensitive\npersonal details, credentials, or confidential\ninformation. Build a functional MVP rather than\na static mockup. Before presenting the final\nversion, test the main interactions, navigation,\nresponsiveness, and content accuracy, fix any\nissues you find, and summarize what is ready to\nshare and what still needs attention.",
+  "B_answers": {
+    "target_role": "Agentic AI Engineer",
+    "featured_project": "Nabeeh",
+    "language": "English",
+    "design": "dark, cyan accents, calm agent-related motion",
+    "source": "https://github.com/AIAgenticTeam/ppe-safety-supervisor",
+    "content_approval": "Resume information, achievements, email, LinkedIn, and original resume download approved by user.",
+    "individual_contributions": "Not yet specified; do not invent."
+  },
+  "skill": "https://github.com/Leonxlnx/taste-skill",
+  "taste_seed": 153396216,
+  "B_revisions": [
+    {
+      "prompt": "https://sb.sa/en/ استخدم نفس تنسيق هذا الموقع والخطو\nوالتصميم",
+      "reference": "https://sb.sa/en/",
+      "font": "Geist",
+      "changes": [
+        "Near-black visual design",
+        "Large centered name",
+        "About before Projects",
+        "Rounded project cards",
+        "Search palette",
+        "Local pointer-only name effect"
+      ],
+      "content": "Retain approved personal content; no reference owner content or photography copied."
+    },
+    {
+      "prompt": "لا تخلي المقارنة في البروتوفوليو خلي المقارنة لحالها وابيها في wellcomeing page بحيث اني ابيها بنفس ذي الفكرة واقدر اخش على version A وversion B",
+      "change": "Standalone welcome at root; independent portfolio routes; comparison and prompts outside both portfolios.",
+      "reference": "User attached image(20261026-001116).png"
+    },
+    {
+      "prompt": "غير الصورة مب لازم تكون نفس اللي اعطيتك اياها",
+      "change": "Replace the welcome scene with an original people-free paper-sculpture atelier artwork; leave portfolio versions and navigation unchanged."
+    },
+    {
+      "prompt": "غير لي التصميم وخليه تصميم خاص لي ومب لازم يكون نفس التصميم اللي ارسلته لك",
+      "change": "Personal welcome identity inspired by agentic engineering: warm paper, forest green, original geometric monogram, editorial introduction, independent A/B portals and an interactive original-prompt lens. Portfolio A and B content unchanged."
+    },
+    {
+      "prompt": "ابيك تشيل المعدل من كل الفيرجنز وابيك تضيف لي انميشن للكلام في فيرجون b",
+      "change": "Remove the academic score from all published versions, saved copies and linked résumés. Add readable staggered text entrances in Version B, respecting reduced motion."
+    }
+  ]
+}

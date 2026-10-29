@@ -1,0 +1,7 @@
+# Deploy as a Render Static Site; there is no server process to start.
+services:
+  - type: web
+    name: abdullah-portfolio
+    runtime: static
+    buildCommand: echo "Static site ready"
+    staticPublishPath: ./dist

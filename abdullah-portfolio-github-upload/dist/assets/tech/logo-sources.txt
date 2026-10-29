@@ -1,0 +1,7 @@
+langgraph: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langgraph.svg
+langchain: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg
+gradio: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gradio.svg
+elevenlabs: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/elevenlabs.svg
+openai: https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openai.svg
+Transformers: Hugging Face logo (library publisher).
+Whisper: OpenAI logo (model publisher); no separate project logo claimed.
